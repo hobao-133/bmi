@@ -1,0 +1,14 @@
+c:\Users\OS\Documents\Codegym 2\Part 4\Thuchanh\Tinhchisocannang\bin\Debug\net9.0\Tinhchisocannang.exe
+c:\Users\OS\Documents\Codegym 2\Part 4\Thuchanh\Tinhchisocannang\bin\Debug\net9.0\Tinhchisocannang.deps.json
+c:\Users\OS\Documents\Codegym 2\Part 4\Thuchanh\Tinhchisocannang\bin\Debug\net9.0\Tinhchisocannang.runtimeconfig.json
+c:\Users\OS\Documents\Codegym 2\Part 4\Thuchanh\Tinhchisocannang\bin\Debug\net9.0\Tinhchisocannang.dll
+c:\Users\OS\Documents\Codegym 2\Part 4\Thuchanh\Tinhchisocannang\bin\Debug\net9.0\Tinhchisocannang.pdb
+c:\Users\OS\Documents\Codegym 2\Part 4\Thuchanh\Tinhchisocannang\obj\Debug\net9.0\Tinhchisocannang.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\OS\Documents\Codegym 2\Part 4\Thuchanh\Tinhchisocannang\obj\Debug\net9.0\Tinhchisocannang.AssemblyInfoInputs.cache
+c:\Users\OS\Documents\Codegym 2\Part 4\Thuchanh\Tinhchisocannang\obj\Debug\net9.0\Tinhchisocannang.AssemblyInfo.cs
+c:\Users\OS\Documents\Codegym 2\Part 4\Thuchanh\Tinhchisocannang\obj\Debug\net9.0\Tinhchisocannang.csproj.CoreCompileInputs.cache
+c:\Users\OS\Documents\Codegym 2\Part 4\Thuchanh\Tinhchisocannang\obj\Debug\net9.0\Tinhchisocannang.dll
+c:\Users\OS\Documents\Codegym 2\Part 4\Thuchanh\Tinhchisocannang\obj\Debug\net9.0\refint\Tinhchisocannang.dll
+c:\Users\OS\Documents\Codegym 2\Part 4\Thuchanh\Tinhchisocannang\obj\Debug\net9.0\Tinhchisocannang.pdb
+c:\Users\OS\Documents\Codegym 2\Part 4\Thuchanh\Tinhchisocannang\obj\Debug\net9.0\Tinhchisocannang.genruntimeconfig.cache
+c:\Users\OS\Documents\Codegym 2\Part 4\Thuchanh\Tinhchisocannang\obj\Debug\net9.0\ref\Tinhchisocannang.dll
